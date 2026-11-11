@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="title desc">
+  <title id="title">Fatemeh Mohseni</title>
+  <desc id="desc">An elegant Persian-inspired midnight digital garden with geometric arches, delicate botanical details and a software engineering title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1423"/>
+      <stop offset="0.56" stop-color="#14263A"/>
+      <stop offset="1" stop-color="#15293D"/>
+    </linearGradient>
+    <linearGradient id="inner" x1="0" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="#244459"/>
+      <stop offset="1" stop-color="#111F35"/>
+    </linearGradient>
+    <linearGradient id="highlight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7BCBCE"/>
+      <stop offset="0.5" stop-color="#EBAAC8"/>
+      <stop offset="1" stop-color="#E2C58C"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.9" fill="#B9C9D8" opacity=".18"/></pattern>
+    <clipPath id="card"><rect x="8" y="8" width="1184" height="324" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect x="8" y="8" width="1184" height="324" rx="22" fill="url(#bg)"/>
+    <rect x="8" y="8" width="1184" height="324" fill="url(#dots)"/>
+    <path d="M8 298 C170 248 320 293 472 257 C620 221 783 293 1192 208" fill="none" stroke="#6AA9AC" stroke-width="1" opacity=".12"/>
+    <path d="M8 316 C190 268 310 312 478 274 C668 232 827 311 1192 232" fill="none" stroke="#D5A4B6" stroke-width="1" opacity=".10"/>
+
+    <!-- Persian-inspired arch and garden -->
+    <path d="M125 305 V174 Q125 132 155 106 Q191 77 238 42 Q285 77 321 106 Q351 132 351 174 V305 Z" fill="#1A3044" stroke="#77B8BA" stroke-width="2" opacity=".88"/>
+    <path d="M145 305 V178 Q145 141 174 117 Q207 93 238 68 Q269 93 302 117 Q331 141 331 178 V305 Z" fill="url(#inner)" stroke="#D6B990" stroke-width="1.2" opacity=".92"/>
+    <path d="M167 305 V183 Q167 152 191 132 Q218 112 238 94 Q258 112 285 132 Q309 152 309 183 V305" fill="none" stroke="#88BDC0" stroke-width=".9" opacity=".35"/>
+    <path d="M238 68 V284 M145 189 H331 M170 130 L306 243 M306 130 L170 243" stroke="#79B9BC" stroke-width=".9" opacity=".21"/>
+    <circle cx="238" cy="185" r="21" fill="#172C41" stroke="#80C6C8" stroke-width="1" opacity=".7"/>
+    <path d="M238 165 L251 185 L238 205 L225 185 Z" fill="#E2B7C4" opacity=".82"/>
+    <path d="M217 185 H259 M238 165 V205" stroke="#E9D2B7" opacity=".72"/>
+
+    <path d="M169 298 C176 272 181 254 188 239 M188 270 C175 254 168 243 166 230 M189 260 C202 248 207 233 208 225" fill="none" stroke="#83CAC6" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M169 253 Q154 248 158 237 Q171 236 174 250 M196 244 Q210 236 212 224 Q198 225 193 242 M179 273 Q164 266 160 256 Q175 258 182 270" fill="#6EAAAB"/>
+    <circle cx="166" cy="229" r="7" fill="#E5A4BA"/><circle cx="208" cy="222" r="8" fill="#F0C28D"/><circle cx="186" cy="236" r="5" fill="#E5A4BA"/>
+
+    <path d="M280 299 C277 280 275 264 273 238 M273 259 Q262 241 253 237 M275 278 Q287 263 293 251" fill="none" stroke="#80C5BE" stroke-width="3" stroke-linecap="round"/>
+    <path d="M269 257 Q258 254 253 239 Q267 242 273 257 M280 274 Q292 266 294 251 Q281 256 278 269" fill="#6FA9A5"/>
+    <circle cx="273" cy="237" r="8" fill="#E4A9C7"/><circle cx="293" cy="248" r="5.5" fill="#E8BE8C"/>
+    <path d="M117 305 Q178 295 239 304 Q302 294 362 305" fill="none" stroke="#D2B98D" stroke-width="2" opacity=".7"/>
+    <path d="M92 312 l9 -17 l9 17 m10 0 l7 -13 l7 13 m233 0 l8 -16 l8 16" fill="none" stroke="#7BBAB4" stroke-width="2" opacity=".7"/>
+    <circle cx="103" cy="80" r="2" fill="#E5B68C"/><circle cx="381" cy="106" r="3" fill="#E3A5BE"/><circle cx="399" cy="164" r="2" fill="#83CACC"/>
+
+    <!-- Title panel -->
+    <path d="M473 85 v172" stroke="url(#highlight)" stroke-width="2" opacity=".7"/>
+    <text x="518" y="143" fill="#E2B997" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="5">ENGINEERING  /  EXPLORATION</text>
+    <text x="512" y="209" fill="#F4F3F1" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" letter-spacing=".3">FATEMEH</text>
+    <text x="512" y="269" fill="#F4F3F1" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" letter-spacing=".3">MOHSENI</text>
+    <path d="M515 292 H817" stroke="url(#highlight)" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Restrained geometric details at the right edge -->
+    <g fill="none" stroke="#92CAD0" stroke-width="1.15" opacity=".3">
+      <path d="M1035 104 l45 -26 l45 26 v52 l-45 26 l-45 -26 Z"/>
+      <path d="M1035 104 l90 52 m0 -52 l-90 52 m45 -78 v104"/>
+      <circle cx="1080" cy="130" r="14"/>
+    </g>
+    <circle cx="1121" cy="248" r="3.2" fill="#DCA7BF" opacity=".8"/>
+    <circle cx="1059" cy="268" r="2.4" fill="#E6BF8D" opacity=".9"/>
+    <path d="M1114 265 l8 -8 l8 8 l-8 8 Z" fill="none" stroke="#78C3C3" opacity=".7"/>
+  </g>
+  <rect x="8.5" y="8.5" width="1183" height="323" rx="22" fill="none" stroke="#466579" stroke-width="1" opacity=".65"/>
+</svg>
