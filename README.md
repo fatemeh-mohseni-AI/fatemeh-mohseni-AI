@@ -39,7 +39,7 @@ An interactive pixel-art world that turns public GitHub repositories into distin
 An immersive personal website bringing together Persian-inspired design, a navigable courtyard, a library, a gallery, and interactive explorations.  
 `TypeScript` · `React` · `Three.js` · `Frontend Engineering`
 
-### Engineering toolbox
+### Engineering toolbox!
 
 **Languages:** `Python` · `TypeScript` · `JavaScript` · `SQL`  
 **Backend & infrastructure:** `Django` · `FastAPI` · `PostgreSQL` · `Docker` · `Linux`  
