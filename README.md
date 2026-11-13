@@ -15,7 +15,7 @@
 
 ---
 
-### What I build
+### What I build?
 
 - **AI & computer vision:** object detection, instance segmentation, annotation workflows, and practical ML tooling.
 - **Backend systems:** APIs, asynchronous services, containerized deployments, and secure integrations.
